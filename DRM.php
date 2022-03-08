@@ -42,7 +42,7 @@ $errr= array("error" => "Put Here Only ZEE5 Proper URL ,  Invalid Input " );
 $err =json_encode($errr);
 
 
-$apii = array("title" => $title, "image" => $img,  "url" => $playit, "created_by" => "Avishkar Patil");
+$apii = array("title" => $title, "image" => $img,  "url" => $playit, "created_by" => "ALEX PRO");
 
 $api =json_encode($apii, JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
 
